@@ -17,7 +17,7 @@ export default function Hero() {
         />
 
         {/* Hero Text */}
-        <div className="relative bg-[#FFF3E3] mt-[320px] px-6 w-[643px] h-[443px] md:p-12 lg:p-16 rounded-lg shadow-lg max-w-[90%] md:max-w-[50%] text-center md:text-left ml-auto mr-[5%]">
+        <div className="relative bg-[#FFF3E3] mt-[220px] px-6 w-[643px] h-[443px] md:p-12 lg:p-16 rounded-lg shadow-lg max-w-[90%] md:max-w-[50%] text-center md:text-left ml-auto mr-[5%]">
           <h6 className="text-sm md:text-base lg:text-lg font-bold uppercase mb-4">
             New Arrival
           </h6>
